@@ -1,2 +1,0 @@
-# papaya
-project website
